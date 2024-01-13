@@ -184,6 +184,12 @@ header .top-header h2 {
 
 } */
 
+@media (max-width: 1024px) {
+    .s-main .jordans {
+        justify-content: center;
+    }
+}
+
 @media (max-width: 768px) {
     .header {
         padding-left: 5.5rem;
@@ -209,13 +215,7 @@ header .top-header h2 {
 
 
 
-@media (max-width: 1024px) {
-    .s-main .jordans {
-        justify-content: center;
-    }
-}
-
-@media (max-width: 375px) {
+@media (max-width: 425px) {
     .header {
         padding-left: 1rem;
     }
