@@ -28,8 +28,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 🚧 Sobre o desafio
-
-O desafio consiste em reproduzir layout do JordanShoes, que consiste em uma loja de tenis que apresenta alguns tênis.
+O desafio reproduzir layout do JordanShoes, que consiste em uma loja de tênis que apresenta alguns tênis.
 
 🔥Live Preview: https://desafio-02-jordanshoes-codelancia.vercel.app/
 
